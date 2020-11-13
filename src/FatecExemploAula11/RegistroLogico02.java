@@ -5,6 +5,9 @@ import javax.swing.JOptionPane;
 
 public class RegistroLogico02 {
 	public static void main(String arg[]) throws IOException {
+		//Testando uma alteração
+		
+		int n = 10;
 		Aluno[] aluno = new Aluno[3];
 		ClasseMetodos m = new ClasseMetodos();
 		int opc = 0;
