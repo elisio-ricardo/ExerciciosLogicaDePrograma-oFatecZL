@@ -7,7 +7,7 @@ public class RegistroLogico02 {
 	public static void main(String arg[]) throws IOException {
 		//Testando uma alteração outra vez
 		
-		int n = 10;
+		int n = 30;
 		Aluno[] aluno = new Aluno[3];
 		ClasseMetodos m = new ClasseMetodos();
 		int opc = 0;
